@@ -1,0 +1,13 @@
+insert into Records(pid,pmoney,pdate,pdelflag) values(1,13.6,datetime('now','localtime'),1)
+
+select R.*,M.MName as Payner from Records as R
+inner join MyPay as M
+on R.Pid=M.Mid
+WHERE pDELFLAG=1
+
+
+select * from Records where pdate like '2017-09-03%'
+
+select sum(pmoney) from Records where pdate like('2017-09%') and pdelflag=1
+
+seect sum(pmoney) from Records group by pid

@@ -1,0 +1,9 @@
+G:\0413ForWork\PurchaseRecord\PurchaseModel\bin\Debug\PurchaseModel.dll
+G:\0413ForWork\PurchaseRecord\PurchaseModel\bin\Debug\PurchaseModel.pdb
+G:\0413ForWork\PurchaseRecord\PurchaseModel\obj\Debug\PurchaseModel.dll
+G:\0413ForWork\PurchaseRecord\PurchaseModel\obj\Debug\PurchaseModel.pdb
+E:\0413ForWork\PurchaseRecord\PurchaseModel\bin\Debug\PurchaseModel.dll
+E:\0413ForWork\PurchaseRecord\PurchaseModel\bin\Debug\PurchaseModel.pdb
+E:\0413ForWork\PurchaseRecord\PurchaseModel\obj\Debug\PurchaseModel.csprojResolveAssemblyReference.cache
+E:\0413ForWork\PurchaseRecord\PurchaseModel\obj\Debug\PurchaseModel.dll
+E:\0413ForWork\PurchaseRecord\PurchaseModel\obj\Debug\PurchaseModel.pdb
